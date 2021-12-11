@@ -87,3 +87,8 @@ In retrospect, my biggest issue with such a project, is that I lack the ability 
 
 However, learning is a process and it is on-going, as I spend more time on it, I will be able to learn more and do what I was not able to do, at some point in the future.
 
+#Outside resources
+
+https://people.kth.se/~johanmon/ose/assignments/buddy.pdf
+http://homepage.divms.uiowa.edu/~jones/opsys/notes/27.shtml
+http://cs.boisestate.edu/~amit/teaching/552/handouts/memory-management-handout.pdf
